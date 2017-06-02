@@ -1,0 +1,6 @@
+// this is a simple java application
+public class FirstApp (
+  public static void main(String args[]) {
+    system.out.println("my first java app");
+  }
+}
